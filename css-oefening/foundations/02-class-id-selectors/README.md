@@ -1,0 +1,3 @@
+- Do the odd numbered `p` elements share a class?
+- Do the even numbered `div` elements have unique IDs?
+- Does the Number 3 element have multiple classes?
